@@ -2,3 +2,10 @@ h1 {background-color: coral; color: whitesmoke}
 h2 {color: midnightblue }
 h3 {color: coral}
 p {color: slategrey}
+main {display: flex;
+    justify-content: space-around;
+}
+
+#Colonnedegauche {padding: 0em 3em 0em 6em}
+#Colonnededroite {padding: 0em 6em 0em 3em}
+
